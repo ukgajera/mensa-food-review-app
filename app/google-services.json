@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727698745513",
+    "firebase_url": "https://mensa-food-review-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mensa-food-review",
+    "storage_bucket": "mensa-food-review.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727698745513:android:4052df0be54b88f17a61b8",
+        "android_client_info": {
+          "package_name": "com.example.mensafoodreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727698745513-72vbsqvnk54f8bts0bainsfl5q8ercts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBD0cXf4Mrs3Q5QZ_pyvlZQNqyRLEuWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727698745513-72vbsqvnk54f8bts0bainsfl5q8ercts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
